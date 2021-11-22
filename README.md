@@ -10,7 +10,7 @@ There are a lot of APIs available by google. One such API is the YouTube Data AP
 - Retrieve information of videos from youtube
 - Can start the youtube video directly from the application
 
-In this project, we use <b>YouTube Data API</b> to extract the information from the youtube channel using Python. Information includes the details corresponding to each video uploaded to that channel, i.e. channelId, number of videos, playlist Id, total views, the maximum number of likes, comments, views, total subscribers of the channel, published date, published time of the channel and videos as well. 
+In this project, we use <b>YouTube Data API</b> to extract the information from the youtube channel using Python. Information includes the details corresponding to each video uploaded to that channel, i.e. channel Id, number of videos, playlist Id, total views, the maximum number of likes, comments, views, total subscribers of the channel, published date, published time of the channel and videos as well. 
 
 After extracting the data from the youtube, we convert it in pandas dataframe then we have done some visualization also to get some interesting insights from the datasets like “which channels has the highest subscribers”, “which channels has the highest videos”, “top 10 videos in terms of views”, etc.
 
