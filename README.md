@@ -6,7 +6,7 @@ Pandas, Seaborn, Google API Client
 
 **Description:**
 There are a lot of APIs available by google. One such API is the YouTube Data API v3 by google. It provides features including: 
-- Search for videos,
+- Search for videos
 - Retrieve information of videos from youtube
 - Can start the youtube video directly from the application
 
